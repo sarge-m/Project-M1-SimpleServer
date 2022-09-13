@@ -1,0 +1,57 @@
+[
+    {
+        "id": 0,
+        "customerName": "George K Dangerfield",
+        "phoneNumber": "414-375-8198",
+        "address": "1843 Grant View Drive",
+        "loanAmount": "1900",
+        "interest": "5",
+        "loanTermYears": "2",
+        "loanType": "student",
+        "description": "Student loan"
+    },
+    {
+        "id": 1,
+        "customerName": "Julia W Neil",
+        "phoneNumber": "314-869-9455",
+        "address": "1205 Ash Avenue",
+        "loanAmount": "5300",
+        "interest": "4",
+        "loanTermYears": "4",
+        "loanType": "auto",
+        "description": "Auto loan"
+      },
+      {
+        "id": 2,
+        "customerName": "Walter T Kessler",
+        "phoneNumber": "402-571-4427",
+        "address": "1269 Commerce Boulevard",
+        "loanAmount": "8900",
+        "interest": "8",
+        "loanTermYears": "7",
+        "loanType": "personal",
+        "description": "Personal loan"
+      },
+      {
+        "id": 3,
+        "customerName": "Ann I Wood",
+        "phoneNumber": "601-943-8250",
+        "address": "504 Washington Avenue",
+        "loanAmount": "7400",
+        "interest": "4",
+        "loanTermYears": "1",
+        "loanType": "mortgage",
+        "description": "Mortgage loan"
+      },
+      {
+        "id": 4,
+        "customerName": "Joan E Watson",
+        "phoneNumber": "660-447-2124",
+        "address": "4009 Blair Court",
+        "loanAmount": "9800",
+        "interest": "7",
+        "loanTermYears": "6",
+        "loanType": "auto",
+        "description": "Auto loan"
+      }
+]
